@@ -1,6 +1,12 @@
 
+   
     .lineBreak::before {
         content: "\A";
         white-space: pre;
-        display: block;
+        /* display: block; */
       }
+    
+    .hobbyLinkDiv {
+        text-align: right;
+    }
+    

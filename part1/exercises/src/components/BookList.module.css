@@ -1,4 +1,16 @@
 .images {
-    height: 30%;
-    width: 10%
+    height: 50%;
+    width: 25%;   
+}
+.divBorder{
+    /* display: grid; */
+    /* grid-template-columns: fit-content(400px) fit-content(400px) 1fr; */
+    border-style:solid;
+    align-items: center;
+    /* position: absolute; */
+    display: inline-block;
+    padding: 0%;
+    width: 35%;
+    
+    
 }
