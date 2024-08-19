@@ -1,0 +1,6 @@
+
+    .lineBreak::before {
+        content: "\A";
+        white-space: pre;
+        display: block;
+      }
