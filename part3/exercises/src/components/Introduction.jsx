@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Crocheting</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Crocheting uses specialized crocheting hooks to work on yarn.</li>
+            <li>The most basic stitch is called a slip stitch.</li>
+            <li>It has multiple stich types, needle sizes that play a major part on how your project turns out.</li>
          </ol>
       </div>
    );
